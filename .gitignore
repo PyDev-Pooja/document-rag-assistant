@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+.env
+.vs/
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+*.pkl
+.DS_Store
+.idea/
+.vscode/
+
+# Runtime data
+data/uploads/*
+data/processed/*
+data/evaluation/*
+!data/uploads/.gitkeep
+!data/processed/.gitkeep
+!data/evaluation/.gitkeep
+.vs/
+.vs/
+.env.txt
